@@ -56,4 +56,4 @@ $ npm run prisma db push
 $ npm run start:dev
 ```
 ### Imagens do projeto:
-![Tela inicial](https://github.com/Fernando01santana/challenge-of-warriors/tree/master/images_project#:~:text=..-,1.png,-doc%3A%20upload%20images)
+![Tela Inicial](https://github.com/Fernando01santana/challenge-of-warriors/blob/master/images_project/2.png)
