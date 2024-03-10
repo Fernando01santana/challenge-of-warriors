@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  redis:
+    image: redis
+    container_name: hero_redis
+    ports:
+      - '5679:6379'
+    environment:
+      REDIS_PASSWORD: redispw
+networks:
+  observability:
+    external: true
+
+volumes:
+  dbdata:
