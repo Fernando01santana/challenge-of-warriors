@@ -56,4 +56,17 @@ $ npm run prisma db push
 $ npm run start:dev
 ```
 ### Imagens do projeto:
+Tela inicial:
 ![Tela Inicial](https://github.com/Fernando01santana/challenge-of-warriors/blob/master/images_project/2.png)
+
+Cadastro de guerreiros:
+![Cadastro de guerreiros](https://github.com/Fernando01santana/challenge-of-warriors/blob/master/images_project/5.png)
+
+Hall dos herois:
+![Hall dos herois](https://github.com/Fernando01santana/challenge-of-warriors/blob/master/images_project/4.png)
+
+Listagem de guerreiros:
+![Listagem de guerreiros](https://github.com/Fernando01santana/challenge-of-warriors/blob/master/images_project/3.png)
+
+Relatorio de cobertura de testes:
+![Cobertura de codigo](https://github.com/Fernando01santana/challenge-of-warriors/blob/master/images_project/1.png)
